@@ -4,8 +4,7 @@ title: Hop In - New Transit
 permalink: /
 section: home
 intro_paragraph: |-
-  ![](/assets/img/uploads/hopin-logo.png)
-
-  Hop In Microtransit
+  New website. 
+  When content on here is ready to be moved to production, let me know.
 ---
-
+Then we will have this site live to public.
